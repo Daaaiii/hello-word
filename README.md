@@ -5,4 +5,4 @@
 ## Objetivo:
 - Criar e linkar o Github com o computador;
 - Criar e utilizar chave SSH;
-- Utilizar os comandos git clone, glit commit e git push;
+- Utilizar os comandos git clone, git commit e git push;
