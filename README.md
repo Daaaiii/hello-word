@@ -1,4 +1,6 @@
-![](https://i.imgur.com/xG74tOh.png)
+  
+![capa ifood](https://github.com/Daaaiii/hello-word/assets/101154455/b435ab35-85de-49db-aa63-b5f7ef156118)
+
 
 # Atividade da Cubos Academy do curso de Desenvolvimento Backend B2B T05 - Bolsa iFood
 
@@ -9,5 +11,4 @@
 
 ##
 
-  
-![capa ifood](https://github.com/Daaaiii/hello-word/assets/101154455/b435ab35-85de-49db-aa63-b5f7ef156118)
+
